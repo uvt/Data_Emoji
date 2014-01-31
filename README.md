@@ -1,4 +1,4 @@
-==Daftar Emoji==
+#Daftar Emoji#
 
 1. :bowtie:
 2. :blush:
