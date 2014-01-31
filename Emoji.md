@@ -1,19 +1,20 @@
+bowtie :bowtie:
 
-:bowtie:
-:smile:
- laughing :laughing:
+smile :smile:
+
+laughing :laughing:
       
- blush :blush:
+blush :blush:
+     
+smiley :smiley:
       
- smiley :smiley:
+relaxed :relaxed:
       
- relaxed :relaxed:
+smirk :smirk:
       
- smirk :smirk:
+heart_eyes :heart_eyes:
       
- heart_eyes : heart_eyes:
-      
- kissing_heart : kissing_heart:
+kissing_heart :kissing_heart:
       
  kissing_closed_eyes : kissing_closed_eyes:
       
