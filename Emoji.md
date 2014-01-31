@@ -1,1748 +1,1690 @@
+
 bowtie :bowtie:
 
 smile :smile:
 
-laughing :laughing:
+ laughing :laughing:
       
-blush :blush:
-     
-smiley :smiley:
+ blush :blush:
       
-relaxed :relaxed:
+ smiley :smiley:
       
-smirk :smirk:
+ relaxed :relaxed:
       
-heart_eyes :heart_eyes:
+ smirk :smirk:
       
-kissing_heart :kissing_heart:
+ heart_eyes :heart_eyes:
       
- kissing_closed_eyes : kissing_closed_eyes:
+ kissing_heart :kissing_heart:
       
- flushed : flushed:
+ kissing_closed_eyes :kissing_closed_eyes:
       
- reeved : reeved:
+ flushed :flushed:
       
- satisfied : satisfied:
+ reeved :reeved:
       
- grin : grin:
+ satisfied :satisfied:
       
- wink : wink:
+ grin :grin:
       
- stuck_out_tonguwinking_eye : stuck_out_tonguwinking_eye:
+ wink :wink:
       
- stuck_out_tonguclosed_eyes : stuck_out_tonguclosed_eyes:
+ stuck_out_tonguwinking_eye :stuck_out_tonguwinking_eye:
       
- grinning : grinning:
+ stuck_out_tonguclosed_eyes :stuck_out_tonguclosed_eyes:
       
- kissing : kissing:
+ grinning :grinning:
       
- kissing_sming_eyes : kissing_sming_eyes:
+ kissing :kissing:
       
- stuck_out_tongue : stuck_out_tongue:
+ kissing_sming_eyes :kissing_sming_eyes:
       
- sleeping : sleeping:
+ stuck_out_tongue :stuck_out_tongue:
       
- worried : worried:
+ sleeping :sleeping:
       
- frowning : frowning:
+ worried :worried:
       
- anguished : anguished:
+ frowning :frowning:
       
- open_mouth : open_mouth:
+ anguished :anguished:
       
- grimacing : grimacing:
+ open_mouth :open_mouth:
       
- confused : confused:
+ grimacing :grimacing:
       
- hushed : hushed:
+ confused :confused:
       
- expressionless : expressionless:
+ hushed :hushed:
       
- unamused : unamused:
+ expressionless :expressionless:
       
- sweat_smile : sweat_smile:
+ unamused :unamused:
       
- sweat : sweat:
+ sweat_smile :sweat_smile:
       
- disappointed_reeved : disappointed_reeved:
+ sweat :sweat:
       
- weary : weary:
+ disappointed_reeved :disappointed_reeved:
       
- pensive : pensive:
+ weary :weary:
       
- disappointed : disappointed:
+ pensive :pensive:
       
- confounded : confounded:
+ disappointed :disappointed:
       
- fearful : fearful:
+ confounded :confounded:
       
- cold_sweat : cold_sweat:
+ fearful :fearful:
       
- persevere : persevere:
+ cold_sweat :cold_sweat:
       
- cry : data-alternative-sad, unhappycry:
+ persevere :persevere:
       
- sob : data-alternative-sad, unhappysob:
+ cry :data-alternative-sad, unhappycry:
       
- joy : joy:
+ sob :data-alternative-sad, unhappysob:
       
- astonished : astonished:
+ joy :joy:
       
- scream : scream:
+ astonished :astonished:
       
- neckbeard : neckbeard:
+ scream :scream:
       
- tired_face : tired_face:
+ neckbeard :neckbeard:
       
- angry : angry:
+ tired_face :tired_face:
       
- rage : rage:
+ angry :angry:
       
- triumph : triumph:
+ rage :rage:
       
- sleepy : sleepy:
+ triumph :triumph:
       
- yum : yum:
+ sleepy :sleepy:
       
- mask : mask:
+ yum :yum:
       
- sunglasses : sunglasses:
+ mask :mask:
       
- dizzy_face : dizzy_face:
+ sunglasses :sunglasses:
       
- imp : imp:
+ dizzy_face :dizzy_face:
       
- sming_imp : sming_imp:
+ imp :imp:
       
- neutral_face : neutral_face:
+ sming_imp :sming_imp:
       
- no_mouth : no_mouth:
+ neutral_face :neutral_face:
       
- innocent : innocent:
+ no_mouth :no_mouth:
       
- aen : aen:
+ innocent :innocent:
       
- yellow_heart : yellow_heart:
+ aen :aen:
       
- bluheart : bluheart:
+ yellow_heart :yellow_heart:
       
- purplheart : purplheart:
+ bluheart :bluheart:
       
- heart : heart:
+ purplheart :purplheart:
       
- green_heart : green_heart:
+ heart :heart:
       
- broken_heart : broken_heart:
+ green_heart :green_heart:
       
- heartbeat : heartbeat:
+ broken_heart :broken_heart:
       
- heartpulse : heartpulse:
+ heartbeat :heartbeat:
       
- two_hearts : two_hearts:
+ heartpulse :heartpulse:
       
- revolving_hearts : revolving_hearts:
+ two_hearts :two_hearts:
       
- cup : cup:
+ revolving_hearts :revolving_hearts:
       
- sparkng_heart : sparkng_heart:
+ cup :cup:
       
- sparkles : sparkles:
+ sparkng_heart :sparkng_heart:
       
- star : star:
+ sparkles :sparkles:
       
- star : star:
+ star :star:
       
- dizzy : dizzy:
+ star :star:
       
- boom : boom:
+ dizzy :dizzy:
       
- colsion : colsion:
+ boom :boom:
       
- anger : anger:
+ colsion :colsion:
       
- exclamation : exclamation:
+ anger :anger:
       
- question : question:
+ exclamation :exclamation:
       
- grey_exclamation : grey_exclamation:
+ question :question:
       
- grey_question : grey_question:
+ grey_exclamation :grey_exclamation:
       
- zzz : zzz:
+ grey_question :grey_question:
       
- dash : dash:
+ zzz :zzz:
       
- sweat_drops : sweat_drops:
+ dash :dash:
       
- notes : notes:
+ sweat_drops :sweat_drops:
       
- musical_note : musical_note:
+ notes :notes:
       
- fire : fire:
+ musical_note :musical_note:
       
- hankey : hankey:
+ fire :fire:
       
- poop : poop:
+ hankey :hankey:
       
- shit : shit:
+ poop :poop:
       
- plus : +:
+ shit :shit:
       
- thumbsup : thumbsup:
+ plus :+:
       
- - : -:
+ thumbsup :thumbsup:
       
- thumbsdown : thumbsdown:
+ - :-:
       
- ok_hand : ok_hand:
+ thumbsdown :thumbsdown:
       
- punch : punch:
+ ok_hand :ok_hand:
       
- facepunch : facepunch:
+ punch :punch:
       
- fist : fist:
+ facepunch :facepunch:
       
- v : v:
+ fist :fist:
       
- wave : wave:
+ v :v:
       
- hand : hand:
+ wave :wave:
       
- raised_hand : raised_hand:
+ hand :hand:
       
- open_hands : open_hands:
+ raised_hand :raised_hand:
       
- point_up : point_up:
+ open_hands :open_hands:
       
- point_down : point_down:
+ point_up :point_up:
       
- point_left : point_left:
+ point_down :point_down:
       
- point_right : point_right:
+ point_left :point_left:
       
- raised_hands : raised_hands:
+ point_right :point_right:
       
- pray : pray:
+ raised_hands :raised_hands:
       
- point_up_ : point_up_:
+ pray :pray:
       
- clap : clap:
+ point_up_ :point_up_:
       
- muscle : muscle:
+ clap :clap:
       
- metal : metal:
+ muscle :muscle:
       
- fu : fu:
+ metal :metal:
       
- walking : walking:
+ fu :fu:
       
- runner : runner:
+ walking :walking:
       
- running : running:
+ runner :runner:
       
- couple : couple:
+ running :running:
       
- family : family:
+ couple :couple:
       
- two_men_holding_hands : two_men_holding_hands:
+ family :family:
       
- two_women_holding_hands : two_women_holding_hands:
+ two_men_holding_hands :two_men_holding_hands:
       
- dancer : data-alternative-partydancer:
+ two_women_holding_hands :two_women_holding_hands:
       
- dancers : data-alternative-partydancers:
+ dancer :data-alternative-partydancer:
       
- ok_woman : ok_woman:
+ dancers :data-alternative-partydancers:
       
- no_good : no_good:
+ ok_woman :ok_woman:
       
- information_desk_person : information_desk_person:
+ no_good :no_good:
       
- raising_hand : raising_hand:
+ information_desk_person :information_desk_person:
       
- brwith_veil : brwith_veil:
+ raising_hand :raising_hand:
       
- person_with_pouting_face : person_with_pouting_face:
+ brwith_veil :brwith_veil:
       
- person_frowning : person_frowning:
+ person_with_pouting_face :person_with_pouting_face:
       
- bow : bow:
+ person_frowning :person_frowning:
       
- couplekiss : couplekiss:
+ bow :bow:
       
- couplwith_heart : couplwith_heart:
+ couplekiss :couplekiss:
       
- massage : massage:
+ couplwith_heart :couplwith_heart:
       
- haircut : haircut:
+ massage :massage:
       
- nail_care : nail_care:
+ haircut :haircut:
       
- boy : boy:
+ nail_care :nail_care:
       
- girl : girl:
+ boy :boy:
       
- woman : woman:
+ girl :girl:
       
- man : man:
+ woman :woman:
       
- baby : baby:
+ man :man:
       
- older_woman : older_woman:
+ baby :baby:
       
- older_man : older_man:
+ older_woman :older_woman:
       
- person_with_blond_hair : person_with_blond_hair:
+ older_man :older_man:
       
- man_with_gua_pi_mao : man_with_gua_pi_mao:
+ person_with_blond_hair :person_with_blond_hair:
       
- man_with_turban : man_with_turban:
+ man_with_gua_pi_mao :man_with_gua_pi_mao:
       
- construction_worker : construction_worker:
+ man_with_turban :man_with_turban:
       
- cop : cop:
+ construction_worker :construction_worker:
       
- angel : angel:
+ cop :cop:
       
- princess : princess:
+ angel :angel:
       
- smiley_cat : smiley_cat:
+ princess :princess:
       
- smilcat : smilcat:
+ smiley_cat :smiley_cat:
       
- heart_eyes_cat : heart_eyes_cat:
+ smilcat :smilcat:
       
- kissing_cat : kissing_cat:
+ heart_eyes_cat :heart_eyes_cat:
       
- smirk_cat : smirk_cat:
+ kissing_cat :kissing_cat:
       
- scream_cat : scream_cat:
+ smirk_cat :smirk_cat:
       
- crying_cat_face : crying_cat_face:
+ scream_cat :scream_cat:
       
- joy_cat : joy_cat:
+ crying_cat_face :crying_cat_face:
       
- pouting_cat : pouting_cat:
+ joy_cat :joy_cat:
       
- japanesogre : japanesogre:
+ pouting_cat :pouting_cat:
       
- japanesgobn : japanesgobn:
+ japanesogre :japanesogre:
       
- seno_evil : seno_evil:
+ japanesgobn :japanesgobn:
       
- hear_no_evil : hear_no_evil:
+ seno_evil :seno_evil:
       
- speak_no_evil : speak_no_evil:
+ hear_no_evil :hear_no_evil:
       
- guardsman : guardsman:
+ speak_no_evil :speak_no_evil:
       
- skull : skull:
+ guardsman :guardsman:
       
- feet : feet:
+ skull :skull:
       
- ps : ps:
+ feet :feet:
       
- kiss : kiss:
+ ps :ps:
       
- droplet : droplet:
+ kiss :kiss:
       
- ear : ear:
+ droplet :droplet:
       
- eyes : eyes:
+ ear :ear:
       
- nose : nose:
+ eyes :eyes:
       
- tongue : tongue:
+ nose :nose:
       
- lovletter : lovletter:
+ tongue :tongue:
       
- bust_in_silhouette : bust_in_silhouette:
+ lovletter :lovletter:
       
- busts_in_silhouette : busts_in_silhouette:
+ bust_in_silhouette :bust_in_silhouette:
       
- speech_balloon : speech_balloon:
+ busts_in_silhouette :busts_in_silhouette:
       
- thought_balloon : thought_balloon:
+ speech_balloon :speech_balloon:
       
- feelsgood : feelsgood:
+ thought_balloon :thought_balloon:
       
- finnadie : finnadie:
+ feelsgood :feelsgood:
       
- goberserk : goberserk:
+ finnadie :finnadie:
       
- godmode : godmode:
+ goberserk :goberserk:
       
- hurtrealbad : hurtrealbad:
+ godmode :godmode:
       
- rage : rage:
+ hurtrealbad :hurtrealbad:
       
- rage : rage:
+ rage :rage:
       
- rage : rage:
+ rage :rage:
       
- rage : rage:
+ rage :rage:
       
- suspect : suspect:
+ rage :rage:
       
- trollface : trollface:
-    ul
-    hNatureh
-    ul nature emojisemoji-nature
+ suspect :suspect:
       
- sunny : sunny:
+ trollface :trollface:
+    
+ sunny :sunny:
       
- umbrella : umbrella:
+ umbrella :umbrella:
       
- cloud : cloud:
+ cloud :cloud:
       
- snowflake : snowflake:
+ snowflake :snowflake:
       
- snowman : snowman:
+ snowman :snowman:
       
- zap : zap:
+ zap :zap:
       
- cyclone : cyclone:
+ cyclone :cyclone:
       
- foggy : foggy:
+ foggy :foggy:
       
- ocean : ocean:
+ ocean :ocean:
       
- cat : cat:
+ cat :cat:
       
- dog : dog:
+ dog :dog:
       
- mouse : mouse:
+ mouse :mouse:
       
- hamster : hamster:
+ hamster :hamster:
       
- rabbit : rabbit:
+ rabbit :rabbit:
       
- wolf : wolf:
+ wolf :wolf:
       
- frog : frog:
+ frog :frog:
       
- tiger : tiger:
+ tiger :tiger:
       
- koala : koala:
+ koala :koala:
       
- bear : bear:
+ bear :bear:
       
- pig : pig:
+ pig :pig:
       
- pig_nose : pig_nose:
+ pig_nose :pig_nose:
       
- cow : cow:
+ cow :cow:
       
- boar : boar:
+ boar :boar:
       
- monkey_face : monkey_face:
+ monkey_face :monkey_face:
       
- monkey : monkey:
+ monkey :monkey:
       
- horse : horse:
+ horse :horse:
       
- racehorse : racehorse:
+ racehorse :racehorse:
       
- camel : camel:
+ camel :camel:
       
- sheep : sheep:
+ sheep :sheep:
       
- elephant : elephant:
+ elephant :elephant:
       
- panda_face : panda_face:
+ panda_face :panda_face:
       
- snake : snake:
+ snake :snake:
       
- bird : bird:
+ bird :bird:
       
- baby_chick : baby_chick:
+ baby_chick :baby_chick:
       
- hatched_chick : hatched_chick:
+ hatched_chick :hatched_chick:
       
- hatching_chick : hatching_chick:
+ hatching_chick :hatching_chick:
       
- chicken : chicken:
+ chicken :chicken:
       
- penguin : penguin:
+ penguin :penguin:
       
- turtle : turtle:
+ turtle :turtle:
       
- bug : bug:
+ bug :bug:
       
- honeybee : honeybee:
+ honeybee :honeybee:
       
- ant : ant:
+ ant :ant:
       
- beetle : beetle:
+ beetle :beetle:
       
- snail : snail:
+ snail :snail:
       
- octopus : octopus:
+ octopus :octopus:
       
- tropical_fish : tropical_fish:
+ tropical_fish :tropical_fish:
       
- fish : fish:
+ fish :fish:
       
- whale : whale:
+ whale :whale:
       
- whale : whale:
+ whale :whale:
       
- dolphin : dolphin:
+ dolphin :dolphin:
       
- cow : cow:
+ cow :cow:
       
- ram : ram:
+ ram :ram:
       
- rat : rat:
+ rat :rat:
       
- water_buffalo : water_buffalo:
+ water_buffalo :water_buffalo:
       
- tiger : tiger:
+ tiger :tiger:
       
- rabbit : rabbit:
+ rabbit :rabbit:
       
- dragon : dragon:
+ dragon :dragon:
       
- goat : goat:
+ goat :goat:
       
- rooster : rooster:
+ rooster :rooster:
       
- dog : dog:
+ dog :dog:
       
- pig : pig:
+ pig :pig:
       
- mouse : mouse:
+ mouse :mouse:
       
- ox : ox:
+ ox :ox:
       
- dragon_face : dragon_face:
+ dragon_face :dragon_face:
       
- blowfish : blowfish:
+ blowfish :blowfish:
       
- crocodile : crocodile:
+ crocodile :crocodile:
       
- dromedary_camel : dromedary_camel:
+ dromedary_camel :dromedary_camel:
       
- leopard : leopard:
+ leopard :leopard:
       
- cat : cat:
+ cat :cat:
       
- poodle : poodle:
+ poodle :poodle:
       
- paw_prints : paw_prints:
+ paw_prints :paw_prints:
       
- bouquet : bouquet:
+ bouquet :bouquet:
       
- cherry_blossom : cherry_blossom:
+ cherry_blossom :cherry_blossom:
       
- tup : tup:
+ tup :tup:
       
- four_leaf_clover : four_leaf_clover:
+ four_leaf_clover :four_leaf_clover:
       
- rose : rose:
+ rose :rose:
       
- sunflower : sunflower:
+ sunflower :sunflower:
       
- hibiscus : hibiscus:
+ hibiscus :hibiscus:
       
- maplleaf : maplleaf:
+ maplleaf :maplleaf:
       
- leaves : leaves:
+ leaves :leaves:
       
- fallen_leaf : fallen_leaf:
+ fallen_leaf :fallen_leaf:
       
- herb : herb:
+ herb :herb:
       
- mushroom : mushroom:
+ mushroom :mushroom:
       
- cactus : cactus:
+ cactus :cactus:
       
- palm_tree : palm_tree:
+ palm_tree :palm_tree:
       
- evergreen_tree : evergreen_tree:
+ evergreen_tree :evergreen_tree:
       
- decuous_tree : decuous_tree:
+ decuous_tree :decuous_tree:
       
- chestnut : chestnut:
+ chestnut :chestnut:
       
- seedng : seedng:
+ seedng :seedng:
       
- blossom : blossom:
+ blossom :blossom:
       
- ear_of_rice : ear_of_rice:
+ ear_of_rice :ear_of_rice:
       
- shell : shell:
+ shell :shell:
       
- globwith_merians : globwith_merians:
+ globwith_merians :globwith_merians:
       
- sun_with_face : sun_with_face:
+ sun_with_face :sun_with_face:
       
- full_moon_with_face : full_moon_with_face:
+ full_moon_with_face :full_moon_with_face:
       
- new_moon_with_face : new_moon_with_face:
+ new_moon_with_face :new_moon_with_face:
       
- new_moon : new_moon:
+ new_moon :new_moon:
       
- waxing_crescent_moon : waxing_crescent_moon:
+ waxing_crescent_moon :waxing_crescent_moon:
       
- first_quarter_moon : first_quarter_moon:
+ first_quarter_moon :first_quarter_moon:
       
- waxing_gibbous_moon : waxing_gibbous_moon:
+ waxing_gibbous_moon :waxing_gibbous_moon:
       
- full_moon : full_moon:
+ full_moon :full_moon:
       
- waning_gibbous_moon : waning_gibbous_moon:
+ waning_gibbous_moon :waning_gibbous_moon:
       
- last_quarter_moon : last_quarter_moon:
+ last_quarter_moon :last_quarter_moon:
       
- waning_crescent_moon : waning_crescent_moon:
+ waning_crescent_moon :waning_crescent_moon:
       
- last_quarter_moon_with_face : last_quarter_moon_with_face:
+ last_quarter_moon_with_face :last_quarter_moon_with_face:
       
- first_quarter_moon_with_face : first_quarter_moon_with_face:
+ first_quarter_moon_with_face :first_quarter_moon_with_face:
       
- moon : moon:
+ moon :moon:
       
- earth_africa : earth_africa:
+ earth_africa :earth_africa:
       
- earth_americas : earth_americas:
+ earth_americas :earth_americas:
       
- earth_asia : earth_asia:
+ earth_asia :earth_asia:
       
- volcano : volcano:
+ volcano :volcano:
       
- milky_way : milky_way:
+ milky_way :milky_way:
       
- partly_sunny : partly_sunny:
+ partly_sunny :partly_sunny:
       
- octocat : octocat:
+ octocat :octocat:
       
- squirrel : squirrel:
-    ul
-    hObjectsh
-    ul objects emojisemoji-objects
+ squirrel :squirrel:
+    
+ bamboo :bamboo:
       
- bamboo : bamboo:
+ gift_heart :gift_heart:
       
- gift_heart : gift_heart:
+ dolls :dolls:
       
- dolls : dolls:
+ school_satchel :school_satchel:
       
- school_satchel : school_satchel:
+ mortar_board :mortar_board:
       
- mortar_board : mortar_board:
+ flags :flags:
       
- flags : flags:
+ fireworks :fireworks:
       
- fireworks : fireworks:
+ sparkler :sparkler:
       
- sparkler : sparkler:
+ wind_chime :wind_chime:
       
- wind_chime : wind_chime:
+ ricscene :ricscene:
       
- ricscene : ricscene:
+ jack_o_lantern :jack_o_lantern:
       
- jack_o_lantern : jack_o_lantern:
+ ghost :ghost:
       
- ghost : ghost:
+ santa :santa:
       
- santa : santa:
+ christmas_tree :christmas_tree:
       
- christmas_tree : christmas_tree:
+ gift :gift:
       
- gift : gift:
+ bell :bell:
       
- bell : bell:
+ no_bell :no_bell:
       
- no_bell : no_bell:
+ tanabata_tree :tanabata_tree:
       
- tanabata_tree : tanabata_tree:
+ tada :tada:
       
- tada : tada:
+ confetti_ball :confetti_ball:
       
- confetti_ball : confetti_ball:
+ balloon :balloon:
       
- balloon : balloon:
+ crystal_ball :crystal_ball:
       
- crystal_ball : crystal_ball:
+ cd :cd:
       
- cd : cd:
+ dvd :dvd:
       
- dvd : dvd:
+ floppy_disk :floppy_disk:
       
- floppy_disk : floppy_disk:
+ camera :camera:
       
- camera : camera:
+ veo_camera :veo_camera:
       
- veo_camera : veo_camera:
+ movicamera :movicamera:
       
- movicamera : movicamera:
+ computer :computer:
       
- computer : computer:
+ tv :tv:
       
- tv : tv:
+ iphone :iphone:
       
- iphone : iphone:
+ phone :phone:
       
- phone : phone:
+ telephone :telephone:
       
- telephone : telephone:
+ telephonreceiver :telephonreceiver:
       
- telephonreceiver : telephonreceiver:
+ pager :pager:
       
- pager : pager:
+ fax :fax:
       
- fax : fax:
+ minisc :minisc:
       
- minisc : minisc:
+ vhs :vhs:
       
- vhs : vhs:
+ sound :sound:
       
- sound : sound:
+ speaker :speaker:
       
- speaker : speaker:
+ mute :mute:
       
- mute : mute:
+ loudspeaker :loudspeaker:
       
- loudspeaker : loudspeaker:
+ mega :mega:
       
- mega : mega:
+ hourglass :hourglass:
       
- hourglass : hourglass:
+ hourglass_flowing_sand :hourglass_flowing_sand:
       
- hourglass_flowing_sand : hourglass_flowing_sand:
+ alarm_clock :alarm_clock:
       
- alarm_clock : alarm_clock:
+ watch :watch:
       
- watch : watch:
+ radio :radio:
       
- radio : radio:
+ satelte :satelte:
       
- satelte : satelte:
+ loop :loop:
       
- loop : loop:
+ mag :mag:
       
- mag : mag:
+ mag_right :mag_right:
       
- mag_right : mag_right:
+ unlock :unlock:
       
- unlock : unlock:
+ lock :lock:
       
- lock : lock:
+ lock_with_ink_pen :lock_with_ink_pen:
       
- lock_with_ink_pen : lock_with_ink_pen:
+ closed_lock_with_key :closed_lock_with_key:
       
- closed_lock_with_key : closed_lock_with_key:
+ key :key:
       
- key : key:
+ bulb :bulb:
       
- bulb : bulb:
+ flashght :flashght:
       
- flashght : flashght:
+ high_brightness :high_brightness:
       
- high_brightness : high_brightness:
+ low_brightness :low_brightness:
       
- low_brightness : low_brightness:
+ electric_plug :electric_plug:
       
- electric_plug : electric_plug:
+ battery :battery:
       
- battery : battery:
+ calng :calng:
       
- calng : calng:
+ email :email:
       
- email : email:
+ mailbox :mailbox:
       
- mailbox : mailbox:
+ postbox :postbox:
       
- postbox : postbox:
+ bath :bath:
       
- bath : bath:
+ bathtub :bathtub:
       
- bathtub : bathtub:
+ shower :shower:
       
- shower : shower:
+ toilet :toilet:
       
- toilet : toilet:
+ wrench :wrench:
       
- wrench : wrench:
+ nut_and_bolt :nut_and_bolt:
       
- nut_and_bolt : nut_and_bolt:
+ hammer :hammer:
       
- hammer : hammer:
+ seat :seat:
       
- seat : seat:
+ moneybag :moneybag:
       
- moneybag : moneybag:
+ yen :yen:
       
- yen : yen:
+ dollar :dollar:
       
- dollar : dollar:
+ pound :pound:
       
- pound : pound:
+ euro :euro:
       
- euro : euro:
+ credit_card :credit_card:
       
- credit_card : credit_card:
+ money_with_wings :money_with_wings:
       
- money_with_wings : money_with_wings:
+ e-mail :e-mail:
       
- e-mail : e-mail:
+ inbox_tray :inbox_tray:
       
- inbox_tray : inbox_tray:
+ outbox_tray :outbox_tray:
       
- outbox_tray : outbox_tray:
+ envelope :envelope:
       
- envelope : envelope:
+ incoming_envelope :incoming_envelope:
       
- incoming_envelope : incoming_envelope:
+ postal_horn :postal_horn:
       
- postal_horn : postal_horn:
+ mailbox_closed :mailbox_closed:
       
- mailbox_closed : mailbox_closed:
+ mailbox_with_mail :mailbox_with_mail:
       
- mailbox_with_mail : mailbox_with_mail:
+ mailbox_with_no_mail :mailbox_with_no_mail:
       
- mailbox_with_no_mail : mailbox_with_no_mail:
+ door :door:
       
- door : door:
+ smoking :smoking:
       
- smoking : smoking:
+ bomb :bomb:
       
- bomb : bomb:
+ gun :gun:
       
- gun : gun:
+ hocho :hocho:
       
- hocho : hocho:
+ pill :pill:
       
- pill : pill:
+ syringe :syringe:
       
- syringe : syringe:
+ pagfacing_up :pagfacing_up:
       
- pagfacing_up : pagfacing_up:
+ pagwith_curl :pagwith_curl:
       
- pagwith_curl : pagwith_curl:
+ bookmark_tabs :bookmark_tabs:
       
- bookmark_tabs : bookmark_tabs:
+ bar_chart :bar_chart:
       
- bar_chart : bar_chart:
+ chart_with_upwards_trend :chart_with_upwards_trend:
       
- chart_with_upwards_trend : chart_with_upwards_trend:
+ chart_with_downwards_trend :chart_with_downwards_trend:
       
- chart_with_downwards_trend : chart_with_downwards_trend:
+ scroll :scroll:
       
- scroll : scroll:
+ cpboard :cpboard:
       
- cpboard : cpboard:
+ calendar :calendar:
       
- calendar : calendar:
+ date :date:
       
- date : date:
+ card_index :card_index:
       
- card_index : card_index:
+ filfolder :filfolder:
       
- filfolder : filfolder:
+ open_filfolder :open_filfolder:
       
- open_filfolder : open_filfolder:
+ scissors :scissors:
       
- scissors : scissors:
+ pushpin :pushpin:
       
- pushpin : pushpin:
+ papercp :papercp:
       
- papercp : papercp:
+ black_nib :black_nib:
       
- black_nib : black_nib:
+ pencil :pencil:
       
- pencil : pencil:
+ straight_ruler :straight_ruler:
       
- straight_ruler : straight_ruler:
+ triangular_ruler :triangular_ruler:
       
- triangular_ruler : triangular_ruler:
+ closed_book :closed_book:
       
- closed_book : closed_book:
+ green_book :green_book:
       
- green_book : green_book:
+ blubook :blubook:
       
- blubook : blubook:
+ orangbook :orangbook:
       
- orangbook : orangbook:
+ notebook :notebook:
       
- notebook : notebook:
+ notebook_with_decorativcover :notebook_with_decorativcover:
       
- notebook_with_decorativcover : notebook_with_decorativcover:
+ ledger :ledger:
       
- ledger : ledger:
+ books :books:
       
- books : books:
+ bookmark :bookmark:
       
- bookmark : bookmark:
+ nambadge :nambadge:
       
- nambadge : nambadge:
+ microscope :microscope:
       
- microscope : microscope:
+ telescope :telescope:
       
- telescope : telescope:
+ newspaper :newspaper:
       
- newspaper : newspaper:
+ football :football:
       
- football : football:
+ basketball :basketball:
       
- basketball : basketball:
+ soccer :soccer:
       
- soccer : soccer:
+ baseball :baseball:
       
- baseball : baseball:
+ tennis :tennis:
       
- tennis : tennis:
+ ball :ball:
       
- ball : ball:
+ rugby_football :rugby_football:
       
- rugby_football : rugby_football:
+ bowng :bowng:
       
- bowng : bowng:
+ golf :golf:
       
- golf : golf:
+ mountain_bicycst :mountain_bicycst:
       
- mountain_bicycst : mountain_bicycst:
+ bicycst :bicycst:
       
- bicycst : bicycst:
+ horsracing :horsracing:
       
- horsracing : horsracing:
+ snowboarder :snowboarder:
       
- snowboarder : snowboarder:
+ swimmer :swimmer:
       
- swimmer : swimmer:
+ surfer :surfer:
       
- surfer : surfer:
+ ski :ski:
       
- ski : ski:
+ spades :spades:
       
- spades : spades:
+ hearts :hearts:
       
- hearts : hearts:
+ clubs :clubs:
       
- clubs : clubs:
+ diamonds :diamonds:
       
- diamonds : diamonds:
+ gem :gem:
       
- gem : gem:
+ ring :ring:
       
- ring : ring:
+ trophy :trophy:
       
- trophy : trophy:
+ musical_score :musical_score:
       
- musical_score : musical_score:
+ musical_keyboard :musical_keyboard:
       
- musical_keyboard : musical_keyboard:
+ vion :vion:
       
- vion : vion:
+ spacinvader :spacinvader:
       
- spacinvader : spacinvader:
+ veo_game :veo_game:
       
- veo_game : veo_game:
+ black_joker :black_joker:
       
- black_joker : black_joker:
+ flower_playing_cards :flower_playing_cards:
       
- flower_playing_cards : flower_playing_cards:
+ gamdie :gamdie:
       
- gamdie : gamdie:
+ dart :dart:
       
- dart : dart:
+ mahjong :mahjong:
       
- mahjong : mahjong:
+ clapper :clapper:
       
- clapper : clapper:
+ memo :memo:
       
- memo : memo:
+ pencil :pencil:
       
- pencil : pencil:
+ book :book:
       
- book : book:
+ art :art:
       
- art : art:
+ microphone :microphone:
       
- microphone : microphone:
+ headphones :headphones:
       
- headphones : headphones:
+ trumpet :trumpet:
       
- trumpet : trumpet:
+ saxophone :saxophone:
       
- saxophone : saxophone:
+ guitar :guitar:
       
- guitar : guitar:
+ shoe :shoe:
       
- shoe : shoe:
+ sandal :sandal:
       
- sandal : sandal:
+ high_heel :high_heel:
       
- high_heel : high_heel:
+ pstick :pstick:
       
- pstick : pstick:
+ boot :boot:
       
- boot : boot:
+ shirt :shirt:
       
- shirt : shirt:
+ tshirt :tshirt:
       
- tshirt : tshirt:
+ necktie :necktie:
       
- necktie : necktie:
+ womans_clothes :womans_clothes:
       
- womans_clothes : womans_clothes:
+ dress :dress:
       
- dress : dress:
+ running_shirt_with_sash :running_shirt_with_sash:
       
- running_shirt_with_sash : running_shirt_with_sash:
+ jeans :jeans:
       
- jeans : jeans:
+ kimono :kimono:
       
- kimono : kimono:
+ bikini :bikini:
       
- bikini : bikini:
+ ribbon :ribbon:
       
- ribbon : ribbon:
+ tophat :tophat:
       
- tophat : tophat:
+ crown :crown:
       
- crown : crown:
+ womans_hat :womans_hat:
       
- womans_hat : womans_hat:
+ mans_shoe :mans_shoe:
       
- mans_shoe : mans_shoe:
+ closed_umbrella :closed_umbrella:
       
- closed_umbrella : closed_umbrella:
+ briefcase :briefcase:
       
- briefcase : briefcase:
+ handbag :handbag:
       
- handbag : handbag:
+ pouch :pouch:
       
- pouch : pouch:
+ purse :purse:
       
- purse : purse:
+ eyeglasses :eyeglasses:
       
- eyeglasses : eyeglasses:
+ fishing_poland_fish :fishing_poland_fish:
       
- fishing_poland_fish : fishing_poland_fish:
+ coffee :coffee:
       
- coffee : coffee:
+ tea :tea:
       
- tea : tea:
+ sake :sake:
       
- sake : sake:
+ baby_bottle :baby_bottle:
       
- baby_bottle : baby_bottle:
+ beer :beer:
       
- beer : beer:
+ beers :beers:
       
- beers : beers:
+ cocktail :cocktail:
       
- cocktail : cocktail:
+ tropical_drink :tropical_drink:
       
- tropical_drink : tropical_drink:
+ winglass :winglass:
       
- winglass : winglass:
+ fork_and_knife :fork_and_knife:
       
- fork_and_knife : fork_and_knife:
+ pizza :pizza:
       
- pizza : pizza:
+ hamburger :hamburger:
       
- hamburger : hamburger:
+ fries :fries:
       
- fries : fries:
+ poultry_leg :poultry_leg:
       
- poultry_leg : poultry_leg:
+ meat_on_bone :meat_on_bone:
       
- meat_on_bone : meat_on_bone:
+ spaghetti :spaghetti:
       
- spaghetti : spaghetti:
+ curry :curry:
       
- curry : curry:
+ fried_shrimp :fried_shrimp:
       
- fried_shrimp : fried_shrimp:
+ bento :bento:
       
- bento : bento:
+ sushi :sushi:
       
- sushi : sushi:
+ fish_cake :fish_cake:
       
- fish_cake : fish_cake:
+ ricball :ricball:
       
- ricball : ricball:
+ riccracker :riccracker:
       
- riccracker : riccracker:
+ rice :rice:
       
- rice : rice:
+ ramen :ramen:
       
- ramen : ramen:
+ stew :stew:
       
- stew : stew:
+ oden :oden:
       
- oden : oden:
+ dango :dango:
       
- dango : dango:
+ egg :egg:
       
- egg : egg:
+ bread :bread:
       
- bread : bread:
+ doughnut :doughnut:
       
- doughnut : doughnut:
+ custard :custard:
       
- custard : custard:
+ icecream :icecream:
       
- icecream : icecream:
+ iccream :iccream:
       
- iccream : iccream:
+ shaved_ice :shaved_ice:
       
- shaved_ice : shaved_ice:
+ birthday :birthday:
       
- birthday : birthday:
+ cake :cake:
       
- cake : cake:
+ cookie :cookie:
       
- cookie : cookie:
+ chocolatbar :chocolatbar:
       
- chocolatbar : chocolatbar:
+ candy :candy:
       
- candy : candy:
+ lolpop :lolpop:
       
- lolpop : lolpop:
+ honey_pot :honey_pot:
       
- honey_pot : honey_pot:
+ apple :apple:
       
- apple : apple:
+ green_apple :green_apple:
       
- green_apple : green_apple:
+ tangerine :tangerine:
       
- tangerine : tangerine:
+ lemon :lemon:
       
- lemon : lemon:
+ cherries :cherries:
       
- cherries : cherries:
+ grapes :grapes:
       
- grapes : grapes:
+ watermelon :watermelon:
       
- watermelon : watermelon:
+ strawberry :strawberry:
       
- strawberry : strawberry:
+ peach :peach:
       
- peach : peach:
+ melon :melon:
       
- melon : melon:
+ banana :banana:
       
- banana : banana:
+ pear :pear:
       
- pear : pear:
+ pineapple :pineapple:
       
- pineapple : pineapple:
+ sweet_potato :sweet_potato:
       
- sweet_potato : sweet_potato:
+ eggplant :eggplant:
       
- eggplant : eggplant:
+ tomato :tomato:
       
- tomato : tomato:
-      
- corn : corn:
+ corn :corn:
     ul
     hPlacesh
     ul places emojisemoji-places
       
- house : house:
+ house :house:
       
- houswith_garden : houswith_garden:
+ houswith_garden :houswith_garden:
       
- school : school:
+ school :school:
       
- office : office:
+ office :office:
       
- post_office : post_office:
+ post_office :post_office:
       
- hospital : hospital:
+ hospital :hospital:
       
- bank : bank:
+ bank :bank:
       
- conveniencstore : conveniencstore:
+ conveniencstore :conveniencstore:
       
- lovhotel : lovhotel:
+ lovhotel :lovhotel:
       
- hotel : hotel:
+ hotel :hotel:
       
- wedding : wedding:
+ wedding :wedding:
       
- church : church:
+ church :church:
       
- department_store : department_store:
+ department_store :department_store:
       
- european_post_office : european_post_office:
+ european_post_office :european_post_office:
       
- city_sunrise : city_sunrise:
+ city_sunrise :city_sunrise:
       
- city_sunset : city_sunset:
+ city_sunset :city_sunset:
       
- japanescastle : japanescastle:
+ japanescastle :japanescastle:
       
- european_castle : european_castle:
+ european_castle :european_castle:
       
- tent : tent:
+ tent :tent:
       
- factory : factory:
+ factory :factory:
       
- tokyo_tower : tokyo_tower:
+ tokyo_tower :tokyo_tower:
       
- japan : japan:
+ japan :japan:
       
- mount_fuji : mount_fuji:
+ mount_fuji :mount_fuji:
       
- sunrisover_mountains : sunrisover_mountains:
+ sunrisover_mountains :sunrisover_mountains:
       
- sunrise : sunrise:
+ sunrise :sunrise:
       
- stars : stars:
+ stars :stars:
       
- statuof_berty : statuof_berty:
+ statuof_berty :statuof_berty:
       
- brgat_night : brgat_night:
+ brgat_night :brgat_night:
       
- carousel_horse : carousel_horse:
+ carousel_horse :carousel_horse:
       
- rainbow : rainbow:
+ rainbow :rainbow:
       
- ferris_wheel : ferris_wheel:
+ ferris_wheel :ferris_wheel:
       
- fountain : fountain:
+ fountain :fountain:
       
- roller_coaster : roller_coaster:
+ roller_coaster :roller_coaster:
       
- ship : ship:
+ ship :ship:
       
- speedboat : speedboat:
+ speedboat :speedboat:
       
- boat : boat:
+ boat :boat:
       
- sailboat : sailboat:
+ sailboat :sailboat:
       
- rowboat : rowboat:
+ rowboat :rowboat:
       
- anchor : anchor:
+ anchor :anchor:
       
- rocket : rocket:
+ rocket :rocket:
       
- airplane : airplane:
+ airplane :airplane:
       
- hecopter : hecopter:
+ hecopter :hecopter:
       
- steam_locomotive : steam_locomotive:
+ steam_locomotive :steam_locomotive:
       
- tram : tram:
+ tram :tram:
       
- mountain_railway : mountain_railway:
+ mountain_railway :mountain_railway:
       
- bike : bike:
+ bike :bike:
       
- aerial_tramway : aerial_tramway:
+ aerial_tramway :aerial_tramway:
       
- suspension_railway : suspension_railway:
+ suspension_railway :suspension_railway:
       
- mountain_cableway : mountain_cableway:
+ mountain_cableway :mountain_cableway:
       
- tractor : tractor:
+ tractor :tractor:
       
- blucar : blucar:
+ blucar :blucar:
       
- oncoming_automobile : oncoming_automobile:
+ oncoming_automobile :oncoming_automobile:
       
- car : car:
+ car :car:
       
- red_car : red_car:
+ red_car :red_car:
       
- taxi : taxi:
+ taxi :taxi:
       
- oncoming_taxi : oncoming_taxi:
+ oncoming_taxi :oncoming_taxi:
       
- articulated_lorry : articulated_lorry:
+ articulated_lorry :articulated_lorry:
       
- bus : bus:
+ bus :bus:
       
- oncoming_bus : oncoming_bus:
+ oncoming_bus :oncoming_bus:
       
- rotating_ght : rotating_ght:
+ rotating_ght :rotating_ght:
       
- poccar : poccar:
+ poccar :poccar:
       
- oncoming_poccar : oncoming_poccar:
+ oncoming_poccar :oncoming_poccar:
       
- firengine : firengine:
+ firengine :firengine:
       
- ambulance : ambulance:
+ ambulance :ambulance:
       
- minibus : minibus:
+ minibus :minibus:
       
- truck : truck:
+ truck :truck:
       
- train : train:
+ train :train:
       
- station : station:
+ station :station:
       
- train : train:
+ train :train:
       
- bullettrain_front : bullettrain_front:
+ bullettrain_front :bullettrain_front:
       
- bullettrain_se : bullettrain_se:
+ bullettrain_se :bullettrain_se:
       
- ght_rail : ght_rail:
+ ght_rail :ght_rail:
       
- monorail : monorail:
+ monorail :monorail:
       
- railway_car : railway_car:
+ railway_car :railway_car:
       
- trolleybus : trolleybus:
+ trolleybus :trolleybus:
       
- ticket : ticket:
+ ticket :ticket:
       
- fuelpump : fuelpump:
+ fuelpump :fuelpump:
       
- vertical_traffic_ght : vertical_traffic_ght:
+ vertical_traffic_ght :vertical_traffic_ght:
       
- traffic_ght : traffic_ght:
+ traffic_ght :traffic_ght:
       
- warning : warning:
+ warning :warning:
       
- construction : construction:
+ construction :construction:
       
- beginner : beginner:
+ beginner :beginner:
       
- atm : atm:
+ atm :atm:
       
- slot_machine : slot_machine:
+ slot_machine :slot_machine:
       
- busstop : busstop:
+ busstop :busstop:
       
- barber : barber:
+ barber :barber:
       
- hotsprings : hotsprings:
+ hotsprings :hotsprings:
       
- checkered_flag : checkered_flag:
+ checkered_flag :checkered_flag:
       
- crossed_flags : crossed_flags:
+ crossed_flags :crossed_flags:
       
- izakaya_lantern : izakaya_lantern:
+ izakaya_lantern :izakaya_lantern:
       
- moyai : moyai:
+ moyai :moyai:
       
- circus_tent : circus_tent:
+ circus_tent :circus_tent:
       
- performing_arts : performing_arts:
+ performing_arts :performing_arts:
       
- round_pushpin : round_pushpin:
+ round_pushpin :round_pushpin:
       
- triangular_flag_on_post : triangular_flag_on_post:
+ triangular_flag_on_post :triangular_flag_on_post:
       
- jp : jp:
+ jp :jp:
       
- kr : kr:
+ kr :kr:
       
- cn : cn:
+ cn :cn:
       
- us : us:
+ us :us:
       
- fr : fr:
+ fr :fr:
       
- es : es:
+ es :es:
       
- it : it:
+ it :it:
       
- ru : ru:
+ ru :ru:
       
- gb : gb:
+ gb :gb:
       
- uk : uk:
+ uk :uk:
       
- de : de:
-    ul
-    hSymbolsh
-    ul symbols emojisemoji-symbols
+ de :de:
+          
+ one :one:
       
- one : one:
+ two :two:
       
- two : two:
+ three :three:
       
- three : three:
+ four :four:
       
- four : four:
+ five :five:
       
- five : five:
+ six :six:
       
- six : six:
+ seven :seven:
       
- seven : seven:
+ eight :eight:
       
- eight : eight:
+ nine :nine:
       
- nine : nine:
+ keycap_ten :keycap_ten:
       
- keycap_ten : keycap_ten:
+ zero :zero:
       
-  : :
+ hash :hash:
       
- zero : zero:
+ symbols :symbols:
       
- hash : hash:
+ arrow_backward :arrow_backward:
       
- symbols : symbols:
+ arrow_down :arrow_down:
       
- arrow_backward : arrow_backward:
+ arrow_forward :arrow_forward:
       
- arrow_down : arrow_down:
+ arrow_left :arrow_left:
       
- arrow_forward : arrow_forward:
+ capital_abcd :capital_abcd:
       
- arrow_left : arrow_left:
+ abcd :abcd:
       
- capital_abcd : capital_abcd:
+ abc :abc:
       
- abcd : abcd:
+ arrow_lower_left :arrow_lower_left:
       
- abc : abc:
+ arrow_lower_right :arrow_lower_right:
       
- arrow_lower_left : arrow_lower_left:
+ arrow_right :arrow_right:
       
- arrow_lower_right : arrow_lower_right:
+ arrow_up :arrow_up:
       
- arrow_right : arrow_right:
+ arrow_upper_left :arrow_upper_left:
       
- arrow_up : arrow_up:
+ arrow_upper_right :arrow_upper_right:
       
- arrow_upper_left : arrow_upper_left:
+ arrow_doubldown :arrow_doubldown:
       
- arrow_upper_right : arrow_upper_right:
+ arrow_doublup :arrow_doublup:
       
- arrow_doubldown : arrow_doubldown:
+ arrow_down_small :arrow_down_small:
       
- arrow_doublup : arrow_doublup:
+ arrow_heading_down :arrow_heading_down:
       
- arrow_down_small : arrow_down_small:
+ arrow_heading_up :arrow_heading_up:
       
- arrow_heading_down : arrow_heading_down:
+ leftwards_arrow_with_hook :leftwards_arrow_with_hook:
       
- arrow_heading_up : arrow_heading_up:
+ arrow_right_hook :arrow_right_hook:
       
- leftwards_arrow_with_hook : leftwards_arrow_with_hook:
+ left_right_arrow :left_right_arrow:
       
- arrow_right_hook : arrow_right_hook:
+ arrow_up_down :arrow_up_down:
       
- left_right_arrow : left_right_arrow:
+ arrow_up_small :arrow_up_small:
       
- arrow_up_down : arrow_up_down:
+ arrows_clockwise :arrows_clockwise:
       
- arrow_up_small : arrow_up_small:
+ arrows_counterclockwise :arrows_counterclockwise:
       
- arrows_clockwise : arrows_clockwise:
+ rewind :rewind:
       
- arrows_counterclockwise : arrows_counterclockwise:
+ fast_forward :fast_forward:
       
- rewind : rewind:
+ information_source :information_source:
       
- fast_forward : fast_forward:
+ ok :ok:
       
- information_source : information_source:
+ twisted_rightwards_arrows :twisted_rightwards_arrows:
       
- ok : ok:
+ repeat :repeat:
       
- twisted_rightwards_arrows : twisted_rightwards_arrows:
+ repeat_one :repeat_one:
       
- repeat : repeat:
+ new :new:
       
- repeat_one : repeat_one:
+ top :top:
       
- new : new:
+ up :up:
       
- top : top:
+ cool :cool:
       
- up : up:
+ free :free:
       
- cool : cool:
+ ng :ng:
       
- free : free:
+ cinema :cinema:
       
- ng : ng:
+ koko :koko:
       
- cinema : cinema:
+ signal_strength :signal_strength:
       
- koko : koko:
+ u :u:
       
- signal_strength : signal_strength:
+ u :u:
       
- u : u:
+ ub :ub:
       
- u : u:
+ u :u:
       
- ub : ub:
+ u :u:
       
- u : u:
+ u :u:
       
- u : u:
+ ue :ue:
       
- u : u:
+ u :u:
       
- ue : ue:
+ u :u:
       
- u : u:
+ uaa :uaa:
       
- u : u:
+ u :u:
       
- uaa : uaa:
+ sa :sa:
       
- u : u:
+ restroom :restroom:
       
- sa : sa:
+ mens :mens:
       
- restroom : restroom:
+ womens :womens:
       
- mens : mens:
+ baby_symbol :baby_symbol:
       
- womens : womens:
+ no_smoking :no_smoking:
       
- baby_symbol : baby_symbol:
+ parking :parking:
       
- no_smoking : no_smoking:
+ wheelchair :wheelchair:
       
- parking : parking:
+ metro :metro:
       
- wheelchair : wheelchair:
+ baggagclaim :baggagclaim:
       
- metro : metro:
+ accept :accept:
       
- baggagclaim : baggagclaim:
+ wc :wc:
       
- accept : accept:
+ potablwater :potablwater:
       
- wc : wc:
+ put_tter_in_its_place :put_tter_in_its_place:
       
- potablwater : potablwater:
+ secret :secret:
       
- put_tter_in_its_place : put_tter_in_its_place:
+ congratulations :congratulations:
       
- secret : secret:
+ m :m:
       
- congratulations : congratulations:
+ passport_control :passport_control:
       
- m : m:
+ left_luggage :left_luggage:
       
- passport_control : passport_control:
+ customs :customs:
       
- left_luggage : left_luggage:
+ eograph_advantage :eograph_advantage:
       
- customs : customs:
+ cl :cl:
       
- eograph_advantage : eograph_advantage:
+ sos :sos:
       
- cl : cl:
+  ::
       
- sos : sos:
+ no_entry_sign :no_entry_sign:
       
-  : :
+ underage :underage:
       
- no_entry_sign : no_entry_sign:
+ no_mobilphones :no_mobilphones:
       
- underage : underage:
+ do_not_tter :do_not_tter:
       
- no_mobilphones : no_mobilphones:
+ non-potablwater :non-potablwater:
       
- do_not_tter : do_not_tter:
+ no_bicycles :no_bicycles:
       
- non-potablwater : non-potablwater:
+ no_pedestrians :no_pedestrians:
       
- no_bicycles : no_bicycles:
+ children_crossing :children_crossing:
       
- no_pedestrians : no_pedestrians:
+ no_entry :no_entry:
       
- children_crossing : children_crossing:
+ eight_spoked_asterisk :eight_spoked_asterisk:
       
- no_entry : no_entry:
+ eight_pointed_black_star :eight_pointed_black_star:
       
- eight_spoked_asterisk : eight_spoked_asterisk:
+ heart_decoration :heart_decoration:
       
- eight_pointed_black_star : eight_pointed_black_star:
+ vs :vs:
       
- heart_decoration : heart_decoration:
+ vibration_mode :vibration_mode:
       
- vs : vs:
+ mobilphonoff :mobilphonoff:
       
- vibration_mode : vibration_mode:
+ chart :chart:
       
- mobilphonoff : mobilphonoff:
+ currency_exchange :currency_exchange:
       
- chart : chart:
+ aries :aries:
       
- currency_exchange : currency_exchange:
+ taurus :taurus:
       
- aries : aries:
+ gemini :gemini:
       
- taurus : taurus:
+ cancer :cancer:
       
- gemini : gemini:
+ leo :leo:
       
- cancer : cancer:
+ virgo :virgo:
       
- leo : leo:
+ bra :bra:
       
- virgo : virgo:
+ scorpius :scorpius:
       
- bra : bra:
+ sagittarius :sagittarius:
       
- scorpius : scorpius:
+ capricorn :capricorn:
       
- sagittarius : sagittarius:
+ aquarius :aquarius:
       
- capricorn : capricorn:
+ pisces :pisces:
       
- aquarius : aquarius:
+ ophiuchus :ophiuchus:
       
- pisces : pisces:
+ six_pointed_star :six_pointed_star:
       
- ophiuchus : ophiuchus:
+ negativsquared_cross_mark :negativsquared_cross_mark:
       
- six_pointed_star : six_pointed_star:
+ a :a:
       
- negativsquared_cross_mark : negativsquared_cross_mark:
+ b :b:
       
- a : a:
+ ab :ab:
       
- b : b:
+ o :o:
       
- ab : ab:
+ diamond_shapwith_a_dot_inse :diamond_shapwith_a_dot_inse:
       
- o : o:
+ recycle :recycle:
       
- diamond_shapwith_a_dot_inse : diamond_shapwith_a_dot_inse:
+ end :end:
       
- recycle : recycle:
+ on :on:
       
- end : end:
+ soon :soon:
       
- on : on:
+ clock :clock:
       
- soon : soon:
+ heavy_dollar_sign :heavy_dollar_sign:
       
- clock : clock:
+ copyright :copyright:
       
- clock : clock:
+ registered :registered:
       
- clock : clock:
+ tm :tm:
       
- clock : clock:
+ x :x:
       
- clock : clock:
+ heavy_exclamation_mark :heavy_exclamation_mark:
       
- clock : clock:
+ bangbang :bangbang:
       
- clock : clock:
+ interrobang :interrobang:
       
- clock : clock:
+ o :o:
       
- clock : clock:
+ heavy_multipcation_x :heavy_multipcation_x:
       
- clock : clock:
+ heavy_plus_sign :heavy_plus_sign:
       
- clock : clock:
+ heavy_minus_sign :heavy_minus_sign:
       
- clock : clock:
+ heavy_ision_sign :heavy_ision_sign:
       
- clock : clock:
+ whitflower :whitflower:
       
- clock : clock:
+ heavy_check_mark :heavy_check_mark:
       
- clock : clock:
+ ballot_box_with_check :ballot_box_with_check:
       
- clock : clock:
+ radio_button :radio_button:
       
- clock : clock:
+ nk :nk:
       
- clock : clock:
+ curly_loop :curly_loop:
       
- clock : clock:
+ wavy_dash :wavy_dash:
       
- clock : clock:
+ part_alternation_mark :part_alternation_mark:
       
- clock : clock:
+ trent :trent:
       
- clock : clock:
+ black_square :black_square:
       
- clock : clock:
+ whitsquare :whitsquare:
       
- clock : clock:
+ whitcheck_mark :whitcheck_mark:
       
- heavy_dollar_sign : heavy_dollar_sign:
+ black_squarbutton :black_squarbutton:
       
- copyright : copyright:
+ whitsquarbutton :whitsquarbutton:
       
- registered : registered:
+ black_circle :black_circle:
       
- tm : tm:
+ whitcircle :whitcircle:
       
- x : x:
+ red_circle :red_circle:
       
- heavy_exclamation_mark : heavy_exclamation_mark:
+ largblucircle :largblucircle:
       
- bangbang : bangbang:
+ largbludiamond :largbludiamond:
       
- interrobang : interrobang:
+ largorangdiamond :largorangdiamond:
       
- o : o:
+ small_bludiamond :small_bludiamond:
       
- heavy_multipcation_x : heavy_multipcation_x:
+ small_orangdiamond :small_orangdiamond:
       
- heavy_plus_sign : heavy_plus_sign:
+ small_red_triangle :small_red_triangle:
       
- heavy_minus_sign : heavy_minus_sign:
+ small_red_triangldown :small_red_triangldown:
       
- heavy_ision_sign : heavy_ision_sign:
-      
- whitflower : whitflower:
-      
-  : :
-      
- heavy_check_mark : heavy_check_mark:
-      
- ballot_box_with_check : ballot_box_with_check:
-      
- radio_button : radio_button:
-      
- nk : nk:
-      
- curly_loop : curly_loop:
-      
- wavy_dash : wavy_dash:
-      
- part_alternation_mark : part_alternation_mark:
-      
- trent : trent:
-      
- black_square : black_square:
-      
- whitsquare : whitsquare:
-      
- whitcheck_mark : whitcheck_mark:
-      
- black_squarbutton : black_squarbutton:
-      
- whitsquarbutton : whitsquarbutton:
-      
- black_circle : black_circle:
-      
- whitcircle : whitcircle:
-      
- red_circle : red_circle:
-      
- largblucircle : largblucircle:
-      
- largbludiamond : largbludiamond:
-      
- largorangdiamond : largorangdiamond:
-      
- small_bludiamond : small_bludiamond:
-      
- small_orangdiamond : small_orangdiamond:
-      
- small_red_triangle : small_red_triangle:
-      
- small_red_triangldown : small_red_triangldown:
-      
- shipit : shipit:
+ shipit :shipit:
    
