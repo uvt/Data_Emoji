@@ -1523,8 +1523,6 @@
 
 764. sos--> :sos:
 
-==> ::
-
 765. no_entry_sign--> :no_entry_sign:
 
 766. underage--> :underage:
@@ -1684,3 +1682,4 @@
 843. small_red_triangldown--> :small_red_triangldown:
 
 844. shipit--> :shipit:
+
