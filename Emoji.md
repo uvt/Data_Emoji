@@ -20,7 +20,7 @@
 
 11. flushed--> :flushed:
 
-12. reeved--> :reeved:
+12. relieved--> :relieved:
 
 13. satisfied--> :satisfied:
 
