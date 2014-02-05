@@ -144,7 +144,7 @@
 
 73. cup--> :cup:
 
-74. sparkng_heart--> :sparkng_heart:
+74. sparkng_heart--> :sparkling_heart: :sparkling_heart:
 
 75. sparkles--> :sparkles:
 
