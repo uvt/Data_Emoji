@@ -9,4 +9,4 @@
 7. :kissing:
 8. :sleeping:
 
-[source code]: http://www.emoji-cheat-sheet.com/
+source code: http://www.emoji-cheat-sheet.com/
