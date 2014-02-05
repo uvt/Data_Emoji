@@ -28,17 +28,17 @@
 
 15. wink--> :wink:
 
-16. stuck_out_tonguwinking_eye--> :stuck_out_tonguwinking_eye:
+16. stuck_out_tongue_winking_eye--> :stuck_out_tongue_winking_eye:
 
-17. stuck_out_tonguclosed_eyes--> :stuck_out_tonguclosed_eyes:
+17. stuck_out_tongue_closed_eyes--> :stuck_out_tongue_closed_eyes:
 
 18. grinning--> :grinning:
 
 19. kissing--> :kissing:
 
-20. kissing_sming_eyes--> :kissing_sming_eyes:
+20. kissing_smiling_eyes--> :kissing_smiling_eyes:
 
-21. stuck_out_tongue--> :stuck_out_tongue:
+21. kissing_smiling_eyes--> :kissing_smiling_eyes:
 
 22. sleeping--> :sleeping:
 
@@ -64,7 +64,7 @@
 
 33. sweat--> :sweat:
 
-34. disappointed_reeved--> :disappointed_reeved:
+34. disappointed_relieved--> :disappointed_relieved:
 
 35. weary--> :weary:
 
@@ -80,9 +80,9 @@
 
 41. persevere--> :persevere:
 
-42. cry--> :data-alternative-sad,unhappycry:
+42. cry--> :cry:
 
-43. sob--> :data-alternative-sad,unhappysob:
+43. sob--> :sob:
 
 44. joy--> :joy:
 
@@ -112,7 +112,7 @@
 
 57. imp--> :imp:
 
-58. sming_imp--> :sming_imp:
+58. smiling_imp--> :smiling_imp:
 
 59. neutral_face--> :neutral_face:
 
